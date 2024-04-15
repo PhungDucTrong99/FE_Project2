@@ -1,18 +1,3 @@
-/* responsive navbar css */
-@media screen and (max-width: 600px) {
-    nav .sideMenuButton {
-        display: flex;
-    }
-
-    nav .navbar {
-        display: none;
-    }
-
-    .sideNavigationBar {
-        display: block !important;
-    }
-}
-
 /* Header content responsive */
 @media screen and (max-width: 980px) {
     .side2 img {
@@ -25,10 +10,6 @@
 
     .side1 p {
         font-size: 17px;
-    }
-
-    .line {
-        margin-top: 80px;
     }
 }
 
